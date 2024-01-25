@@ -1,4 +1,4 @@
-![image](https://github.com/rootmarkjoy/important-links-storage/assets/45856526/95326818-101d-45a8-b2a5-adacd6ddc791)
+![image](https://github.com/rootmarkjoy/important-links-storage/assets/45856526/27f3fb6d-05f5-4829-9eab-0aa19e3ad56b)
 
 # important-links-storage
 
