@@ -2,7 +2,12 @@
 
 # important-links-storage
 
-
+#### Mail Tester Link to validate email score and SPF DKIM check.
+```sh
+https://www.mail-tester.com/
+&
+https://www.mail-tester.com/spf-dkim-check
+```
 
 #### Online YAML Tool helps you to create valid YAML file.
 ```sh
