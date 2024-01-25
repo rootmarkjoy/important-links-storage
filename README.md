@@ -2,14 +2,23 @@
 
 # important-links-storage
 
-#### Mail Tester Link to validate email score and SPF DKIM check.
+#### DNS checker links:
+```sh
+https://dnschecker.org/
+https://intodns.com/
+https://www.whatsmydns.net/
+&
+https://www.dnswatch.info/
+```
+
+#### Mail Tester Link to validate email score and SPF DKIM check:
 ```sh
 https://www.mail-tester.com/
 &
 https://www.mail-tester.com/spf-dkim-check
 ```
 
-#### Online YAML Tool helps you to create valid YAML file.
+#### Online YAML Tool helps you to create valid YAML file:
 ```sh
 https://codebeautify.org/yaml-beautifier
 or
