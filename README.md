@@ -24,3 +24,14 @@ https://codebeautify.org/yaml-beautifier
 or
 https://jsonformatter.org/yaml-parser
 ```
+#### Domain and IP Address blacklist check URLs:
+```sh
+https://www.virustotal.com/gui/home/url
+https://sitecheck.sucuri.net/
+https://mxtoolbox.com/
+https://talosintelligence.com/reputation_center/
+https://easydmarc.com/tools/ip-domain-reputation-check
+https://www.ipvoid.com/domain-reputation-check/
+&
+https://domain-reputation.whoisxmlapi.com/lookup
+```
